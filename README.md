@@ -6,9 +6,8 @@ If you need to reach me, [email](mailto:kridge.delacruz@gmail.com) :mailbox:
 <br />
 
 ### My status:
-- Working as a Python developer 👨‍💻
-- Currently revisitng React Course 📜
-- Planning to revisit Flask Course 📜
+- Working as a Software Engineer 👨‍💻
+- Currently creating an API using Flask 📜
 
 
 
